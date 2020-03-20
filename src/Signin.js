@@ -14,7 +14,7 @@ export default class Signin extends Component {
             id="signin-button"
             onClick={ handleSignIn.bind(this) }
           >
-            Sign In with Blockstack
+            Sign In with VisualNext
           </button>
         </p>
       </div>
