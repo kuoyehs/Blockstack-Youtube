@@ -2,13 +2,18 @@
 
 ## 思考去中心化产品，产品流程图,去中心化的Youtube：
 -------------------
+## HW3: 
 
 ### 那些data是公开：
+
 视频本身相关data（e.g.：视频title，duration，热门影片，首页，动态…...），因为每个人都可以看视频
+
 ### 那些data是保密：
+
 每个用户观看视频的详细资讯（e.g.:观看记录，收藏列表，播放列表，记录前次观看视频的时间...... ）
+
 -------------------
-设计
+##设计
 
 ![image](https://github.com/kuoyehs/Blockstack-Youtube/blob/master/readme_img/1.png)
 
